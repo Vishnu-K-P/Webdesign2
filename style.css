@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+  width:100%;
+  height:100%;
+  margin: 0;
+}
+nav{
+    background:black;
+    width:100%;
+    height:22vh;
+    display: inline-block;
+    padding-left: 0;
+  
+}
+.logo
+{   padding-top: 0;
+    border:none;
+    margin-left:0;
+    float: middle;
+    width: 30%;
+}
+.logo img
+{
+    padding-left: 0%;
+    position: absolute;
+    height:15vh;
+    width:500px;
+}
+.options
+{   
+    margin-left: 0;
+    float:left;
+    padding-top: 100px;
+    padding-left: 600px;
+}
+header ul li
+{
+    display: inline;
+    margin-right: 20px;;
+}
+  a{
+    text-decoration: none;
+    font-size: x-small;
+    color: white;
+}
+
+
+
+
+
+
+
+.main-section
+{
+    background:rgb(43, 40, 45);
+    position:absolute;
+    top:22vh;
+    height:170vh;
+    width:100%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+
+/* section1 starts*/
+.section1
+{
+    display: flex;
+    width: 100%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.div1
+{
+ float:left;   
+ width:25%;
+
+}
+.div2
+{
+ float:right;  
+ width:25%; 
+}
+.div3
+{
+ float:right;  
+ width:25%; 
+}
+.div4
+{
+ float:right;   
+ width:25%;
+}
+sectio1 img
+{
+    width:100%;
+}
+.section1 a
+{
+    display:block;
+    color: white;
+}
+
+
+
+
+
+/* section2 starts*/
+.section2
+{
+    display: flex;
+    width: 100%;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.div5
+{
+ float:left;   
+ width:25%;
+ 
+}
+.div6
+{
+ float:right;  
+ width:25%; 
+}
+.div7
+{
+ float:right;  
+ width:25%; 
+}
+.div8
+{
+ float:right;   
+ width:25%;
+}
+sectio2 img
+{
+    width:100%;
+}
+.section2 a
+{
+    display:block;
+    color: white;
+}
+
+
+
+
+
+
+/* section3 starts*/
+.section3
+{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.section3 ul li{
+    display:inline;
+    
+
+}
+.section3 p
+{
+    color: white;
+    font-size: larger;
+}
+.section3 a
+{
+    color: black;
+    border: 1px solid black;
+    border-width: 10px;
+    border-color:white ;
+    background: white;
+    font-weight: bolder;
+}
+
+
+
+
+/* section4 starts*/
+.section4
+{
+    margin-left: 100px;
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
+
+.decleration
+{
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    background: black;
+    
+}
+
