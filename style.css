@@ -60,7 +60,7 @@ header ul li
     background:rgb(43, 40, 45);
     position:absolute;
     top:22vh;
-    height:170vh;
+    height:180vh;
     width:100%;
     margin-left: 0px;
     margin-top: 0px;
@@ -198,6 +198,8 @@ sectio2 img
     text-align: center;
     color: white;
     background: black;
+    padding-top: 10px;
+    padding-bottom: 15px;
     
 }
 
